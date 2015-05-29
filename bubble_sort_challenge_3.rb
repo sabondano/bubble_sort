@@ -24,3 +24,4 @@ end
 result = sequence
 puts "Final result: #{result}"
 puts "Swaps: #{swaps}"
+
